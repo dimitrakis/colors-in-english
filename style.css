@@ -1,4 +1,4 @@
-h1{
+h1, h2{
 	text-align: center;
 }
 
@@ -9,10 +9,6 @@ h1{
 
 .colors:hover{
 	 cursor:pointer;
-}
-
-h2{
-	text-align: center;
 }
 
 td{
